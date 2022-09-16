@@ -1,0 +1,63 @@
+.body{
+  background-color: #e7f0ff;
+}
+.bodyHome{
+  margin: 60px 0;
+}
+.promoRect{
+  background-color: #d2281b;
+  width: 1000px;
+  height: 130px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.promoPhrase1{
+  color: white;
+  font-size: 55px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.promoPhrase2{
+  border: 1px solid #FED12E;
+  border-radius: 15px;
+  background-color: #FED12E;  padding: 20px;
+  width: 210px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  text-align: center;
+}
+.promoSection{
+  text-align: center;
+  padding: 50px;
+}
+.promoImg{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 260px;
+  height: 310px;
+  margin: 40px 10px;
+  border-radius: 25px;
+  box-shadow: 3px 3px 10px black;
+}
+.politSection{
+  background-color: #fed12e;
+  display: flex;
+  padding: 50px;
+  gap: 50px;
+}
+.politSectionDiv{
+  width: 50%;
+}
+.politSectionTittle{
+  color: black;
+}
+.politSectionParraf{
+  color: black;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}

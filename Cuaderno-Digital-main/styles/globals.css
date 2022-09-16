@@ -1,0 +1,14 @@
+body, html{
+  height: 100vh;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background: #F8F8F8; /* #e7f0ff; */
+  /*background: linear-gradient(to top right, #b0be4a, #f8ca64, #fed455, #ff8737);*/
+  /* overflow: hidden; */
+}
+a {
+  text-decoration: none;
+  color: unset;
+}
